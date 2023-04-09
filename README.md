@@ -79,9 +79,9 @@ Creating the transaction: [█████████████████�
 assetId: c9b46622e3de4d46aaeda9610a98db8cbcc5e5596a19793f10eb41ae0824c712.
 
 balance of $IRON: 4.99999978.
-balance of $cyberomanov: 838.00000000.
+balance of $SPARMIT: 838.00000000.
 
-with love by @cyberomanov.
+with love ❤️ from @5PARM1T coded by @cyberomanov.
 ```
 
 ## Crontab
